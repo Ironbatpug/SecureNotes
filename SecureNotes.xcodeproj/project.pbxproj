@@ -17,6 +17,7 @@
 		75D0381D232584A00080AAB3 /* LockStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D0381C232584A00080AAB3 /* LockStatus.swift */; };
 		75D03820232584FD0080AAB3 /* NoteObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D0381F232584FD0080AAB3 /* NoteObjects.swift */; };
 		75D03822232588350080AAB3 /* NoteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D03821232588350080AAB3 /* NoteCell.swift */; };
+		75D0382423258D820080AAB3 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D0382323258D820080AAB3 /* Helpers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		75D0381C232584A00080AAB3 /* LockStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockStatus.swift; sourceTree = "<group>"; };
 		75D0381F232584FD0080AAB3 /* NoteObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteObjects.swift; sourceTree = "<group>"; };
 		75D03821232588350080AAB3 /* NoteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteCell.swift; sourceTree = "<group>"; };
+		75D0382323258D820080AAB3 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			isa = PBXGroup;
 			children = (
 				75D0381F232584FD0080AAB3 /* NoteObjects.swift */,
+				75D0382323258D820080AAB3 /* Helpers.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				75D03820232584FD0080AAB3 /* NoteObjects.swift in Sources */,
 				75D03804232580D10080AAB3 /* NoteVC.swift in Sources */,
 				75D03802232580D10080AAB3 /* AppDelegate.swift in Sources */,
+				75D0382423258D820080AAB3 /* Helpers.swift in Sources */,
 				75D0381D232584A00080AAB3 /* LockStatus.swift in Sources */,
 				75D038192325835F0080AAB3 /* NoteDetailVC.swift in Sources */,
 				75D03822232588350080AAB3 /* NoteCell.swift in Sources */,
